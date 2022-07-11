@@ -1,5 +1,4 @@
 # Blog
-alexzhang1030‘s blog, only for interested things
 
 ## How to add a new Topic
 
