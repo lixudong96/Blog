@@ -30,11 +30,11 @@ export default async () => {
       socialLinks: [
         { icon: 'github', link: 'https://github.com/lixudong96/Blog' },
       ],
-      // algolia: {
-      //   appId: '1A68O7WT7B',
-      //   indexName: 'blog',
-      //   apiKey: '99f03532f79c78153623260e57e716f8',
-      // },
+      algolia: {
+        appId: '1A68O7WT7B',
+        indexName: 'blog',
+        apiKey: '99f03532f79c78153623260e57e716f8',
+      },
       sidebar,
     },
   })
