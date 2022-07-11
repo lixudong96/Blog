@@ -1,0 +1,27 @@
+[
+  {
+    "name": "linux",
+    "display_name": "linux学习记录",
+    "path_name": "Linux/Articles",
+    "home_page": "/Linux/index",
+    "color": {
+      "bg": "#0052cc",
+      "text": "rgba(233, 236, 239)"
+    },
+    "questions": [
+      {
+        "name": "cate",
+        "type": "list",
+        "message": "选择一个分类",
+        "choices": [
+          "ssh"
+        ]
+      },
+      {
+        "name": "name",
+        "type": "input",
+        "message": "文章名称"
+      }
+    ]
+  }
+]
