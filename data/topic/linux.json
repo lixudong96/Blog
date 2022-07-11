@@ -3,5 +3,10 @@
     "name": "ssh免密登录",
     "path": "/Topic/Linux/Articles/00001",
     "cate": "ssh"
+  },
+  {
+    "name": "ssh隧道",
+    "path": "/Topic/Linux/Articles/00002",
+    "cate": "ssh"
   }
 ]
