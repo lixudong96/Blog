@@ -16,9 +16,9 @@ const goToLink = () => {
 <template>
   <div
     w-full
-    md:w="25%" h-80px flex="~"
+    md:w="25%" h-70px flex="~"
     items="center" justify="flex-start"
-    px-2 box-border rounded-md
+    px-4 box-border rounded-md
     hover="translate-y--1" transition="all"
     cursor="pointer" @click="goToLink()"
   >
