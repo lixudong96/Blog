@@ -3,6 +3,7 @@ import type { Topic } from '../../../../types'
 import TopicData from '../../../../data/topic.json'
 // import data
 import LinuxData from '../../../../data/topic/linux.json'
+import ReactData from '../../../../data/topic/react.json'
 import NavData from './nav'
 
 export const TOPIC_PATH_PREFIX = '/Topic'
@@ -27,6 +28,7 @@ export function getNav(): DefaultTheme.NavItem[] {
 
 const mapping: Record<string, any> = {
   linux: LinuxData,
+  React: ReactData,
 }
 
 export async function getSidebar(): Promise<DefaultTheme.Sidebar> {
@@ -46,4 +48,8 @@ export async function getSidebar(): Promise<DefaultTheme.Sidebar> {
 
 export function getLinuxData() {
   return LinuxData
+}
+
+export function getReactData() {
+  return ReactData
 }

@@ -23,5 +23,30 @@
         "message": "文章名称"
       }
     ]
+  },
+  {
+    "name": "react",
+    "display_name": "react学习记录",
+    "path_name": "React/Articles",
+    "home_page": "/React/index",
+    "color": {
+      "bg": "#0052cc",
+      "text": "rgba(233, 236, 239)"
+    },
+    "questions": [
+      {
+        "name": "cate",
+        "type": "list",
+        "message": "选择一个分类",
+        "choices": [
+          "modern"
+        ]
+      },
+      {
+        "name": "name",
+        "type": "input",
+        "message": "文章名称"
+      }
+    ]
   }
 ]
