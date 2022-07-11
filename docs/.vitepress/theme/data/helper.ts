@@ -28,7 +28,7 @@ export function getNav(): DefaultTheme.NavItem[] {
 
 const mapping: Record<string, any> = {
   linux: LinuxData,
-  React: ReactData,
+  react: ReactData,
 }
 
 export async function getSidebar(): Promise<DefaultTheme.Sidebar> {
