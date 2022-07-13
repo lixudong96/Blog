@@ -8,5 +8,15 @@
     "name": "ssh隧道",
     "path": "/Topic/Linux/Articles/00002",
     "cate": "ssh"
+  },
+  {
+    "name": "rsync 远程/本地文件的copy",
+    "path": "/Topic/Linux/Articles/00003",
+    "cate": "file or fold"
+  },
+  {
+    "name": "查看目录与切换操作",
+    "path": "/Topic/Linux/Articles/00004",
+    "cate": "file or fold"
   }
 ]

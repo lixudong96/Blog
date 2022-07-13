@@ -1,8 +1,12 @@
 {
   "linux": {
     "ssh": {
-      "bg": "#c7f5b1",
-      "color": "#000000"
+      "bg": "#BA1200",
+      "color": "#ffffff"
+    },
+    "file or fold": {
+      "bg": "#031927",
+      "color": "#ffffff"
     }
   },
   "react": {
@@ -11,5 +15,4 @@
       "color": "#000000"
     }
   }
-
 }

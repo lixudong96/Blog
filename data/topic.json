@@ -14,7 +14,8 @@
         "type": "list",
         "message": "选择一个分类",
         "choices": [
-          "ssh"
+          "ssh",
+          "file or fold"
         ]
       },
       {
