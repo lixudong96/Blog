@@ -18,5 +18,10 @@
     "name": "查看目录与切换操作",
     "path": "/Topic/Linux/Articles/00004",
     "cate": "file or fold"
+  },
+  {
+    "name": "linux用户相关",
+    "path": "/Topic/Linux/Articles/00005",
+    "cate": "user"
   }
 ]

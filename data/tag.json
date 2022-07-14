@@ -7,6 +7,10 @@
     "file or fold": {
       "bg": "#031927",
       "color": "#ffffff"
+    },
+    "user": {
+      "bg": "#031927",
+      "color": "#ffffff"
     }
   },
   "react": {

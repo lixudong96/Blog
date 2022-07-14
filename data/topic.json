@@ -15,7 +15,8 @@
         "message": "选择一个分类",
         "choices": [
           "ssh",
-          "file or fold"
+          "file or fold",
+          "user"
         ]
       },
       {
