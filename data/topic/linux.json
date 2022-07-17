@@ -23,5 +23,10 @@
     "name": "linux用户相关",
     "path": "/Topic/Linux/Articles/00005",
     "cate": "user"
+  },
+  {
+    "name": "stat",
+    "path": "/Topic/Linux/Articles/00006",
+    "cate": "file or fold"
   }
 ]
