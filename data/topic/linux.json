@@ -28,5 +28,10 @@
     "name": "stat",
     "path": "/Topic/Linux/Articles/00006",
     "cate": "file or fold"
+  },
+  {
+    "name": "权限",
+    "path": "/Topic/Linux/Articles/00007",
+    "cate": "file or fold"
   }
 ]
