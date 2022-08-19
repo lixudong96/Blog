@@ -1,0 +1,12 @@
+version: "3"
+services:
+  blog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    labels:
+      - "raefik.http.routers.blog.rule=Host(`blog.lixud.com`)"
+networks:
+  default:
+    external:
+      name: traefik_default
