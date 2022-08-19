@@ -4,12 +4,12 @@ WORKDIR /blog
 
 # add deps
 ADD pnpm-lock.yaml package.json /blog/
-RUN npm install -g pnpm
-RUN pnpm install
+RUN npm install --registry=https://registry.npmmirror.com
 
 # add files
 ADD . /blog
-RUN pnpm run docs:serve
+RUN npm run docs:build
+# RUN npm run docs:serve
 
 EXPOSE 5000
 
